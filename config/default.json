@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://rares:rares@cluster0-u2fns.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "mysecretoken",
+  "githubClientId": "633285f65fb3cb275446",
+  "githubSecret": "a2ff8fb7b4749f920cb57b79c09b2a49a1b9c3dc"
+}
